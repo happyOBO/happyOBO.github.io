@@ -4,6 +4,16 @@ date: 2020-08-02 22:00:28 -0400
 categories: Aboutme
 ---
 
+### Skills
+***
+- C++
+- Python3
+- OCaml
+- ROS
+- OpenGL
+- Raspberry pi
+- SolidWorks (3D modeling) 
+
 ### Experience
 ***
 
@@ -21,6 +31,13 @@ categories: Aboutme
     - 2019.03 - 2019.04
 - 프로그래밍 시스템 연구실 인턴
     - 2019.03 ~ 2020.08
+
+### Awards
+***
+- 교내 프로그래밍 경진대회 hepc 2017 장려 수상
+- 한국정보과학회 KCC2020 프로그래밍 언어 부문 최우수논문 선정
+- 교내 CARE사업 어드벤처 디자인 은상 수상
+- 2020 KETI 모비우스 개발자 경진대회 장려상 수상
 
 ### Projects
 ***
@@ -100,8 +117,4 @@ categories: Aboutme
     - 맡은 역할
         - 개인 프로젝트
 
-### Awards
-***
-- 교내 프로그래밍 경진대회 hepc 2017 장려 수상
-- 한국정보과학회 KCC2020 프로그래밍 언어 부문 최우수논문 선정
-- 교내 CARE사업 어드벤처 디자인 은상 수상
+
