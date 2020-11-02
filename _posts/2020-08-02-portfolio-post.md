@@ -119,4 +119,13 @@ categories: Aboutme
     - 맡은 역할
         - 개인 프로젝트
 
+- **자동차 주행 프로젝트**
+    - [Github](https://github.com/happyOBO/multi_car_map)
+    - [Github](https://github.com/happyOBO/car_simulator)
+    - 주요 내용
+        - 자동차 주행 시뮬레이션, 자동차 주행 점수 체크 프로그램
+        - ``C++``,``OpenGL`` 사용
+    - 맡은 역할
+        - 개인 프로젝트
+
 
