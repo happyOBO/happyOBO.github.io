@@ -18,10 +18,15 @@ def solution(land):
                     if( ans_list[i-1][k] + land[i][j]  > mx):
                         mx = ans_list[i-1][k] + land[i][j] 
             ans_list[i][j] = mx
+        for x in range(N):
+            print(ans_list[x])
+        print()
     mx = 0
     for i in range(4):
         if(mx < ans_list[N-1][i]):
             mx = ans_list[N-1][i]
-    # [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
 
     return mx
+
+
+print(solution([ [5,3,4,2], [1,7,2,5], [1,2,3,1], [3,3,2,3]]))
