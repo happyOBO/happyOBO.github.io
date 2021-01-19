@@ -1,18 +1,20 @@
 #-*- coding:utf-8 -*-
 import cv2
+import numpy as np
 
+image = cv2.imread('my_char.png',cv2.IMREAD_GRAYSCALE) # 회색조로 이미지 객체 생성
 
-img = cv2.imread('noise.png')
-# src, d, sigmaColor, sigmaSpace
-# d : 필터링에 이용하는 이웃한 픽셀의 지름
-# sigmaColor : 컬러 공간의 시그마 공간 정의
-# sigmaSpace : 시그마 필터 조정, 값이 길수록 긴밀하게 주변 픽셀 영향
-blur = cv2.bilateralFilter(img,5,75,75)
-blur2 = cv2.bilateralFilter(img,10,75,75)
+# np 를 이용해 커널 생성
+kernel = np.ones((7, 7), np.uint8)
+print(kernel)
 
-cv2.imshow('Original', img)
-cv2.imshow('Result', blur)
-cv2.imshow('Result2', blur2)
+# make erosion and dilation
+open_image = cv2.morphologyEx(image, cv2.MORPH_OPEN, kernel)
+close_image = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
 
-cv2.waitKey(100000)
-cv2.destroyAllWindows()
+cv2.imshow('open_image', open_image)
+
+cv2.imshow('close_image', close_image)
+
+cv2.waitKey(50000) 
+cv2.destroyAllWindows() 
