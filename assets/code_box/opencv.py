@@ -2,19 +2,22 @@
 import cv2
 import numpy as np
 
-image = cv2.imread('my_char.png',cv2.IMREAD_GRAYSCALE) # 회색조로 이미지 객체 생성
+img = cv2.imread('approx.png')
+gray_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+ret , thr = cv2.threshold(gray_img,100,255,0)
 
-# np 를 이용해 커널 생성
-kernel = np.ones((7, 7), np.uint8)
-print(kernel)
+image, contours, hierachy = cv2.findContours(thr,cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
 
-# make erosion and dilation
-open_image = cv2.morphologyEx(image, cv2.MORPH_OPEN, kernel)
-close_image = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
+approx_image = img
+for contour in contours:
 
-cv2.imshow('open_image', open_image)
+    epsilon = 0.02*cv2.arcLength(contour,True)
 
-cv2.imshow('close_image', close_image)
+    approx = cv2.approxPolyDP(contour,epsilon, True)
 
-cv2.waitKey(50000) 
-cv2.destroyAllWindows() 
+    approx_image = cv2.drawContours(approx_image, [approx], 0, (0,255,0), 4)
+
+cv2.imshow('approx_image', approx_image)
+
+cv2.waitKey(50000)
+cv2.destroyAllWindows()
