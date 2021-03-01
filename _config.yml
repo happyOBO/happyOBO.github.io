@@ -99,9 +99,9 @@ author:
   location         : "Korea"
   email            : "obo314@hanyang.ac.kr"
   links:
-    - label: "Tistory"
-      icon: "fas fa-fw fa-link"
-      url: "https://pi-314.tistory.com/"
+    # - label: "Tistory"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://pi-314.tistory.com/"
     - label: "About Me"
       icon: "fas fa-fw fa-link"
       url: "https://happyobo.github.io/aboutme/portfolio-post/"
