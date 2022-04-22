@@ -2,6 +2,7 @@
 title: "[알고리즘] 빠진 수 하나 찾기"
 date: 2021-10-20 13:15:28 -0400
 categories: 알고리즘 구현
+classes: wide
 ---
 
 

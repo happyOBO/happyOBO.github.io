@@ -2,6 +2,7 @@
 title: "[알고리즘] 캐시"
 date: 2022-01-07 13:22:28 -0400
 categories: 알고리즘 정렬 C++
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/14.png){: .align-center}

@@ -2,6 +2,7 @@
 title: "[알고리즘] 소수 만들기"
 date: 2021-12-17 21:11:28 -0400
 categories: 알고리즘 DFS C#
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/04.png){: .align-center}

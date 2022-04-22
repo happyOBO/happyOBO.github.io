@@ -1,7 +1,8 @@
 ---
 title: "[자율주행] Python3 에서 heap 응용 문제"
 date: 2020-12-04 16:41:28 -0400
-categories: ROS
+categories: 알고리즘
+classes: wide
 ---
 
 

@@ -2,6 +2,7 @@
 title: "[알고리즘] 점프와 순간이동"
 date: 2022-01-11 16:19:28 -0400
 categories: 알고리즘 구현 C++
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/18.png){: .align-center}

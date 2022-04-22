@@ -2,6 +2,7 @@
 title: "[알고리즘] Journey to the Moon"
 date: 2022-02-08 14:30:28 -0400
 categories: 알고리즘 BFS 시간복잡도 C++
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/40.png){: .align-center}

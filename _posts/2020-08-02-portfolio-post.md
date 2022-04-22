@@ -2,6 +2,7 @@
 title: "나에 대해서,,"
 date: 2020-08-02 22:00:28 -0400
 categories: Aboutme
+classes: wide
 ---
 
 

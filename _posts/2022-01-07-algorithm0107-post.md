@@ -2,6 +2,7 @@
 title: "[알고리즘] LRU 알고리즘"
 date: 2022-01-07 11:22:28 -0400
 categories: 알고리즘 정렬 C++
+classes: wide
 ---
 
 ## LRU (Least Recently Used)

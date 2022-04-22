@@ -2,6 +2,7 @@
 title: "[로보틱스] 로봇 공학 소개"
 date: 2020-09-07 21:15:28 -0400
 categories: ROS
+classes: wide
 ---
 
 ## 1.1 로봇의 정의

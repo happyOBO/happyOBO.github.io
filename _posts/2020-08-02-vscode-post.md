@@ -2,6 +2,7 @@
 title: "[TMI]자주 쓰는 VS Code 단축키"
 date: 2020-08-01 15:15:28 -0400
 categories: TMI
+classes: wide
 ---
 ### 자주 쓰는 VS Code 단축키
 - ``command + shift + l`` : 드래그한 해당 단어 모두 찾아서 커서 생성

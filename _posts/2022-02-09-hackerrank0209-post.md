@@ -2,6 +2,7 @@
 title: "[알고리즘] KnightL on a Chessboard"
 date: 2022-02-09 22:30:28 -0400
 categories: 알고리즘 BFS C++
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/48.png){: .align-center}

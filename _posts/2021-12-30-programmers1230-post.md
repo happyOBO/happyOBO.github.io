@@ -2,6 +2,7 @@
 title: "[알고리즘] 문자열 내 마음대로 정렬하기"
 date: 2021-12-30 20:22:28 -0400
 categories: 알고리즘 정렬 C#
+classes: wide
 ---
 
 

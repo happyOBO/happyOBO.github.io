@@ -2,6 +2,7 @@
 title: "[알고리즘] 두개 뽑아서 더하기"
 date: 2021-10-01 9:15:28 -0400
 categories: 알고리즘 C#
+classes: wide
 ---
 
 ### 문제 설명

@@ -2,6 +2,7 @@
 title: "[알고리즘] 계단오르기 (bk_2779)"
 date: 2020-08-07 22:41:28 -0400
 categories: 동적계획법
+classes: wide
 ---
 
 ### 문제

@@ -2,6 +2,7 @@
 title: "[알고리즘] 방탈출 (boj_15729)"
 date: 2020-08-11 15:05:28 -0400
 categories: C++ 알고리즘
+classes: wide
 ---
 
 ### 문제

@@ -2,6 +2,7 @@
 title: "[알고리즘] 올바른 괄호"
 date: 2021-10-10 19:15:28 -0400
 categories: 알고리즘 C#
+classes: wide
 ---
 
 

@@ -2,6 +2,7 @@
 title: "[알고리즘] N과 M"
 date: 2021-10-21 13:15:28 -0400
 categories: 알고리즘 백트랙킹 C#
+classes: wide
 ---
 
 

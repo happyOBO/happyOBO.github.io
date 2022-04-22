@@ -2,6 +2,7 @@
 title: "[알고리즘] 피보나치 수"
 date: 2021-10-28 14:15:28 -0400
 categories: 알고리즘 동적계획법 C#
+classes: wide
 ---
 
 

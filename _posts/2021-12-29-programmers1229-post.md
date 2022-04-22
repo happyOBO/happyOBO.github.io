@@ -2,6 +2,7 @@
 title: "[알고리즘] 예상 대진표"
 date: 2021-12-29 16:22:28 -0400
 categories: 알고리즘 이분탐색 C#
+classes: wide
 ---
 
 

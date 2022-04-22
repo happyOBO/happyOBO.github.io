@@ -2,6 +2,7 @@
 title: "[알고리즘] 가장 먼 노드"
 date: 2021-12-18 21:51:28 -0400
 categories: 알고리즘 그래프 C# BFS
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/05.png){: .align-center}

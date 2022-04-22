@@ -2,6 +2,7 @@
 title: "[알고리즘] 타겟 넘버"
 date: 2021-10-22 11:15:28 -0400
 categories: 알고리즘 C# DFS
+classes: wide
 ---
 
 ### 문제 설명

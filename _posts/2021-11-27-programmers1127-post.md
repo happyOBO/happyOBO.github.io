@@ -2,6 +2,7 @@
 title: "[알고리즘] 체육복"
 date: 2021-11-27 12:31:28 -0400
 categories: 알고리즘 그리디 C#
+classes: wide
 ---
 
 

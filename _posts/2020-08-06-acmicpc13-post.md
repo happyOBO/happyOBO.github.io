@@ -2,6 +2,7 @@
 title: "[알고리즘] 정수삼각형 (bk_1932)"
 date: 2020-08-06 13:41:28 -0400
 categories: 동적계획법
+classes: wide
 ---
 
 ### 문제

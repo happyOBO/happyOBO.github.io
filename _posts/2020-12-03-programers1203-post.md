@@ -1,7 +1,8 @@
 ---
 title: "[자율주행] Python3 에서 heap 사용하기"
 date: 2020-12-03 16:41:28 -0400
-categories: ROS
+categories: 알고리즘
+classes: wide
 ---
 
 

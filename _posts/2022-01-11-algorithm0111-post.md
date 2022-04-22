@@ -2,6 +2,7 @@
 title: "[알고리즘] 송아지 찾기"
 date: 2022-01-11 16:19:28 -0400
 categories: 알고리즘 BFS C++
+classes: wide
 ---
 
 ## 문제 내용

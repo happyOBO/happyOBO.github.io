@@ -2,6 +2,7 @@
 title: "[알고리즘] 다항함수의 미분 (boj_15725)"
 date: 2020-08-10 23:05:28 -0400
 categories: C++
+classes: wide
 ---
 
 ### 문제

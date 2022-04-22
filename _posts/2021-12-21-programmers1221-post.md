@@ -2,6 +2,7 @@
 title: "[알고리즘] 교점에 별만들기"
 date: 2021-12-21 23:46:28 -0400
 categories: 알고리즘 구현 C# Linq
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/07.png){: .align-center}

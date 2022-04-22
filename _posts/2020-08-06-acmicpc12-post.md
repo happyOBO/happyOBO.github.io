@@ -2,6 +2,7 @@
 title: "[알고리즘] RGB (bk_1149)"
 date: 2020-08-06 13:41:28 -0400
 categories: 동적계획법
+classes: wide
 ---
 
 

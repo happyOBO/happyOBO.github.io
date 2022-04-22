@@ -2,6 +2,7 @@
 title: "[알고리즘] 최솟값 만들기"
 date: 2021-11-03 19:15:28 -0400
 categories: 알고리즘 구현 C#
+classes: wide
 ---
 
 ### 문제 설명

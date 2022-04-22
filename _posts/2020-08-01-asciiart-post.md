@@ -2,6 +2,7 @@
 title: "[TMI]ASII ART TEXT 생성"
 date: 2020-08-01 00:15:28 -0400
 categories: TMI
+classes: wide
 ---
 
 ### ASCII ART TEXT 작성

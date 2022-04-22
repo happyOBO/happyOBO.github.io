@@ -2,6 +2,7 @@
 title: "[알고리즘] 최댓값과 최솟값"
 date: 2021-10-29 23:15:28 -0400
 categories: 알고리즘 구현 C#
+classes: wide
 ---
 
 

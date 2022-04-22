@@ -2,6 +2,7 @@
 title: "[알고리즘] 벨만-포드 알고리즘"
 date: 2022-01-16 14:30:28 -0400
 categories: 알고리즘 벨만포드 C++
+classes: wide
 ---
 
 

@@ -2,6 +2,7 @@
 title: "[알고리즘] 괄호 회전하기"
 date: 2021-11-07 9:15:28 -0400
 categories: 알고리즘 스택 C#
+classes: wide
 ---
 
 ### 문제 설명

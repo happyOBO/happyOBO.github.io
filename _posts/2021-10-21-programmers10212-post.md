@@ -2,6 +2,7 @@
 title: "[알고리즘] 기능개발"
 date: 2021-10-21 16:15:28 -0400
 categories: 알고리즘 C# 큐
+classes: wide
 ---
 
 ### 문제 설명

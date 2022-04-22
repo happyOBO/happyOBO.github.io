@@ -2,6 +2,7 @@
 title: "[OCaml] 리스트 형식대로 리스트 출력하기"
 date: 2020-07-23 15:44:28 -0400
 categories: OCaml
+classes: wide
 ---
 
 ### 리스트 형식대로 리스트 출력하기

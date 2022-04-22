@@ -2,6 +2,7 @@
 title: "[알고리즘] 스킬트리"
 date: 2021-10-31 10:15:28 -0400
 categories: 알고리즘 구현 C#
+classes: wide
 ---
 
 

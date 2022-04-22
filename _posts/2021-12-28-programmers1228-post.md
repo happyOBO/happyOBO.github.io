@@ -2,6 +2,7 @@
 title: "[알고리즘] 행렬 테두리 회전하기"
 date: 2021-12-28 10:22:28 -0400
 categories: 알고리즘 구현 C#
+classes: wide
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: "[자율주행] 알고리즘 자료구조 기초"
 date: 2020-11-30 19:41:28 -0400
-categories: ROS
+categories: 알고리즘
+classes: wide
 ---
 
 ### 알아두면 좋은 ``Python3`` 내장 함수

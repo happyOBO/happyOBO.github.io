@@ -2,6 +2,7 @@
 title: "[알고리즘] 입국심사"
 date: 2022-01-09 22:22:28 -0400
 categories: 알고리즘 이분탐색 C++
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/17.png){: .align-center}

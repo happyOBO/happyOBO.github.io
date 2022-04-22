@@ -2,6 +2,7 @@
 title: "[알고리즘] 위장"
 date: 2021-10-21 14:15:28 -0400
 categories: 알고리즘 백트랙킹 C#
+classes: wide
 ---
 
 

@@ -2,6 +2,7 @@
 title: "[알고리즘] 나머지가 1이 되는 수 찾기"
 date: 2021-06-23 19:15:28 -0400
 categories: 알고리즘 구현 C#
+classes: wide
 ---
 
 

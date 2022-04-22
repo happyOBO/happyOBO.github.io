@@ -2,6 +2,7 @@
 title: "[알고리즘] 예산"
 date: 2021-12-16 21:11:28 -0400
 categories: 알고리즘 정렬 C# Linq
+classes: wide
 ---
 
 

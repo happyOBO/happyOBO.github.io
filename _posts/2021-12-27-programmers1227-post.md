@@ -2,6 +2,7 @@
 title: "[알고리즘] 단어 변환"
 date: 2021-12-27 22:22:28 -0400
 categories: 알고리즘 그래프 BFS C#
+classes: wide
 ---
 
 

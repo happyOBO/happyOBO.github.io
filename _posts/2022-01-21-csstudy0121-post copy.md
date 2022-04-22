@@ -2,6 +2,7 @@
 title: "[운영체제] 멀티 프로세스와 멀티 스레드"
 date: 2022-01-16 01:30:28 -0400
 categories: 운영체제
+classes: wide
 ---
 
 

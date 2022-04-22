@@ -2,6 +2,7 @@
 title: "[알고리즘] 모음 사전"
 date: 2021-11-21 12:31:28 -0400
 categories: 알고리즘 DFS C#
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/01.png){: .align-center}

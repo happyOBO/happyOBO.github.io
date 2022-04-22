@@ -2,6 +2,7 @@
 title: "[알고리즘] 네트워크"
 date: 2021-12-20 20:51:28 -0400
 categories: 알고리즘 그래프 C# BFS Linq
+classes: wide
 ---
 
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-programmers/06.png){: .align-center}

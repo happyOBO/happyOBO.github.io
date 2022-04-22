@@ -2,6 +2,7 @@
 title: "[로보틱스] 로봇 공학 소개-2"
 date: 2020-09-16 23:15:28 -0400
 categories: ROS
+classes: wide
 ---
 
 ## 1.5 로봇 좌표계

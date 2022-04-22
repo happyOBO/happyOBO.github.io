@@ -2,6 +2,7 @@
 title: "[알고리즘] 병합 정렬"
 date: 2021-10-10 11:19:28 -0400
 categories: 알고리즘 정렬 C++
+classes: wide
 ---
 
 ### 입력설명

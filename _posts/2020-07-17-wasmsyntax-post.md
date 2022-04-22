@@ -2,6 +2,7 @@
 title: "[Webassembly] syntax/semantic"
 date: 2020-07-17 16:03:28 -0400
 categories: webassembly
+classes: wide
 ---
 # instruction & semantic of inst
 ![[no-alignment]]({{ site.url }}{{ site.baseurl }}/assets/images/post-wasm-02/wasm.001.jpeg){: .align-center}

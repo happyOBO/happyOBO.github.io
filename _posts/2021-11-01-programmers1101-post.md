@@ -2,6 +2,7 @@
 title: "[알고리즘] 행렬의덧셈"
 date: 2021-11-01 19:15:28 -0400
 categories: 알고리즘 구현 C#
+classes: wide
 ---
 
 

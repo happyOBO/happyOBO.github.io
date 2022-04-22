@@ -2,6 +2,7 @@
 title: "[알고리즘] ATM (boj_11399)"
 date: 2020-08-10 00:05:28 -0400
 categories: 그리디
+classes: wide
 ---
 
 ### 그리디란?

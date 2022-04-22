@@ -2,6 +2,7 @@
 title: "[로보틱스] 로봇소프트웨어개발 기사 시험 항목"
 date: 2020-09-07 21:15:28 -0400
 categories: ROS
+classes: wide
 ---
 
 ## 필기 시험

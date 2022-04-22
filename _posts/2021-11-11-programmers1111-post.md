@@ -2,6 +2,7 @@
 title: "[알고리즘] 게임 맵 최단 거리"
 date: 2021-11-11 22:31:28 -0400
 categories: 알고리즘 BFS C#
+classes: wide
 ---
 
 
